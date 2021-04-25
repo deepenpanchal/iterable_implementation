@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "863779177436",
+    "project_id": "deepen-at-iterable",
+    "storage_bucket": "deepen-at-iterable.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863779177436:android:3ca43b7eaec3bf50bf0519",
+        "android_client_info": {
+          "package_name": "com.flash.apps.deepen_iterable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863779177436-h6j9krkj9tigvjsiststkjio4q8i78e4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGjuLmHvj4qnJCV04IZDKKXu5QyoFUIdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863779177436-h6j9krkj9tigvjsiststkjio4q8i78e4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
